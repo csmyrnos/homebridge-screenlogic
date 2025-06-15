@@ -1,7 +1,7 @@
 .DS_Store
 
 # Ignore source code
-# src
+src
 
 # ------------- Defaults ------------- #
 
@@ -13,7 +13,7 @@
 .eslintrc.json
 
 # typescript
-# tsconfig.json
+tsconfig.json
 
 # vscode
 .vscode
@@ -104,7 +104,7 @@ web_modules/
 
 # Nuxt.js build / generate output
 .nuxt
-# dist
+dist
 
 # Gatsby files
 .cache/
