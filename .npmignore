@@ -13,7 +13,7 @@
 .eslintrc.json
 
 # typescript
-tsconfig.json
+# tsconfig.json
 
 # vscode
 .vscode
